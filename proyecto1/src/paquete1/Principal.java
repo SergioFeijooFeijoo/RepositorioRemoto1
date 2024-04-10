@@ -6,6 +6,7 @@ public class Principal {
 
 		System.out.println("Estamos haciendo control de versiones de Git.");
 		System.out.println("Cambio para probar historial.");
+		System.out.println("Hola");
 	}
 
 }
